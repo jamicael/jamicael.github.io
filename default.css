@@ -1,0 +1,29 @@
+body{
+    background-color: lightblue;
+}
+
+p{
+    text-indent: 50px;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+}
+
+h1{
+    color:blueviolet;
+    font-size: 24;
+}
+
+hr{
+    color:black;
+    height: 20px;
+    width: 50%;
+}
+
+#bpImage{
+    position: absolute; top: 200px; left: 500px;
+    padding: 15px;
+    background-color:silver;
+    border-style: solid;
+    border-width: 2px;
+    border-color:darkorange;
+}
