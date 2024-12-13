@@ -18,12 +18,3 @@ hr{
     height: 20px;
     width: 50%;
 }
-
-#bpImage{
-    position: absolute; top: 200px; left: 500px;
-    padding: 15px;
-    background-color:silver;
-    border-style: solid;
-    border-width: 2px;
-    border-color:darkorange;
-}
